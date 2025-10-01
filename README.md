@@ -135,7 +135,11 @@ Paste this URL into Canvas and submit.
 ### References
 
 Git official documentation: https://git-scm.com
+
 GitHub Docs — Repositories: https://docs.github.com/en/repositories
+
 Git for Windows: https://gitforwindows.org
+
 WebStorm download: https://www.jetbrains.com/webstorm/download/
+
 Git Cheat Sheet: https://education.github.com/git-cheat-sheet-education.pdf
